@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest>
+  <control namespace="AC" constructor="BingAddressAutocomplete" version="0.0.16" display-name-key="Bing Address_Autocomplete" description-key="Use this control to enable address autocomplete feature powered by Bing Maps API" control-type="standard">
+    <property name="value" display-name-key="Full Address" description-key="Full Address" of-type="Multiple" usage="bound" required="true" />
+    <property name="bingapikey" display-name-key="Bing Api Key" description-key="Enter valid Bing API Key to enable address autocomplete functionality" of-type="SingleLine.Text" usage="input" required="true" />
+    <property name="street" display-name-key="Street" description-key="Street" of-type="SingleLine.Text" usage="bound" required="true" />
+    <property name="city" display-name-key="City" description-key="City" of-type="SingleLine.Text" usage="bound" required="true" />
+    <property name="county" display-name-key="County" description-key="County" of-type="SingleLine.Text" usage="bound" required="true" />
+    <property name="state" display-name-key="State/Region" description-key="State/Region" of-type="SingleLine.Text" usage="bound" required="true" />
+    <property name="zipcode" display-name-key="Zip Code" description-key="Zip Code" of-type="SingleLine.Text" usage="bound" required="true" />
+    <property name="country" display-name-key="Country" description-key="Country" of-type="SingleLine.Text" usage="bound" required="true" />
+     <property name="latitude" display-name-key="Latitude" description-key="Latitude" of-type="SingleLine.Text" usage="bound" required="true" />
+    <property name="longitude" display-name-key="Longitude" description-key="Longitude" of-type="SingleLine.Text" usage="bound" required="true" />
+
+    <property name="street1" display-name-key="# street1" description-key="# street1" of-type="SingleLine.Text" usage="input" required="false"/>
+    <property name="city1" display-name-key="# city1" description-key="# city1" of-type="SingleLine.Text" usage="input" required="false"/>
+    <property name="county1" display-name-key="# county1" description-key="# county1" of-type="SingleLine.Text" usage="input" required="false"/>
+    <property name="state1" display-name-key="# state1" description-key="# state1" of-type="SingleLine.Text" usage="input" required="false"/>
+    <property name="zipcode1" display-name-key="# zipcode1" description-key="# zipcode1" of-type="SingleLine.Text" usage="input" required="false"/>
+    <property name="country1" display-name-key="# country1" description-key="# country1" of-type="SingleLine.Text" usage="input" required="false"/>
+    <property name="latitude1" display-name-key="# latitude1" description-key="# latitude1" of-type="SingleLine.Text" usage="input" required="false"/>
+    <property name="longitude1" display-name-key="# longitude1" description-key="# " of-type="SingleLine.Text" usage="input" required="false"/>
+     
+
+   
+    <resources>
+      <code path="index.ts" order="1" />
+      <css path="css/AddressAutocomplete.css" order="1" />
+    </resources>
+  </control>
+</manifest>

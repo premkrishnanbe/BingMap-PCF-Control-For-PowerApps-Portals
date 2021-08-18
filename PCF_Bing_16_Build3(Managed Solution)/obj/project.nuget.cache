@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "9JbhpMQkjkYEzxyFmV/oXj2LDKll1TD/vFPmHfvt4IFumv3bUXzc12/aljnB0S0qgzH3IvgoEjyZ3HSIOAN0kQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\premkumar.krishnan\\Documents\\PCF_Bing_Deploy2\\PCF_Bing_16_Build3\\PCF_Bing_16_Build3.cdsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\premkumar.krishnan\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\premkumar.krishnan\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net462\\1.0.0\\microsoft.netframework.referenceassemblies.net462.1.0.0.nupkg.sha512",
+    "C:\\Users\\premkumar.krishnan\\.nuget\\packages\\microsoft.powerapps.msbuild.pcf\\1.8.6\\microsoft.powerapps.msbuild.pcf.1.8.6.nupkg.sha512",
+    "C:\\Users\\premkumar.krishnan\\.nuget\\packages\\microsoft.powerapps.msbuild.solution\\1.8.6\\microsoft.powerapps.msbuild.solution.1.8.6.nupkg.sha512"
+  ],
+  "logs": []
+}

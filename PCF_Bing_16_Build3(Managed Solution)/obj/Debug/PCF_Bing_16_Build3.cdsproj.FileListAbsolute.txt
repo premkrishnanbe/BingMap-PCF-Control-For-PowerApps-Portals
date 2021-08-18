@@ -1,0 +1,2 @@
+C:\Users\premkumar.krishnan\Documents\PCF_Bing_Deploy2\PCF_Bing_16_Build3\obj\Debug\PCF_Bing_16_Build3.cdsproj.AssemblyReference.cache
+C:\Users\premkumar.krishnan\Documents\PCF_Bing_Deploy2\PCF_Bing_16_Build3\obj\Debug\PCF_Bing_16_Build3.cdsproj.CoreCompileInputs.cache

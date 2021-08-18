@@ -1,0 +1,19 @@
+2021-08-18 12:04:41.090 - Info	
+Packing C:\Users\premkumar.krishnan\Documents\PCF_Bing_Deploy2\PCF_Bing_16_Build3\obj\Release\Metadata to bin\Release\PCF_Bing_16_Build3.zip
+
+2021-08-18 12:04:41.105 - Info	Processing Component: Entities
+2021-08-18 12:04:41.109 - Info	Processing Component: Roles
+2021-08-18 12:04:41.113 - Info	Processing Component: Workflows
+2021-08-18 12:04:41.114 - Info	Processing Component: FieldSecurityProfiles
+2021-08-18 12:04:41.115 - Info	Processing Component: Templates
+2021-08-18 12:04:41.122 - Info	Processing Component: EntityMaps
+2021-08-18 12:04:41.123 - Info	Processing Component: EntityRelationships
+2021-08-18 12:04:41.137 - Info	Processing Component: OrganizationSettings
+2021-08-18 12:04:41.139 - Info	Processing Component: optionsets
+2021-08-18 12:04:41.140 - Info	Processing Component: CustomControls
+2021-08-18 12:04:41.149 - Info	 - AC.BingAddressAutocomplete
+2021-08-18 12:04:41.156 - Info	Processing Component: SolutionPluginAssemblies
+2021-08-18 12:04:41.157 - Info	Processing Component: EntityDataProviders
+2021-08-18 12:04:41.223 - Info	
+Managed Pack complete.
+
